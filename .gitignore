@@ -7,3 +7,6 @@
 *.gslides
 *.gdoc
 *.ipynb_checkpoints/
+*.gslides
+*.gdoc
+*.ipynb_checkpoints/
